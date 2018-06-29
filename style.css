@@ -95,11 +95,12 @@ body {
   margin: 0 20px;
 }
 
-.footer {
-  max-height: 200px
+.contact {
+  max-height: 200px;
 }
 
-.copyright {
+footer {
+  margin: 0 auto;
   text-align: left;
   margin-left: 20px;
 }
